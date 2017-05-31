@@ -1,0 +1,8 @@
+{
+  "require": [
+    "unbound",
+    "nsd",
+    "powerdns",
+    "dnsmasq"
+  ]
+}
